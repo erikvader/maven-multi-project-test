@@ -1,0 +1,20 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>erik.plugin</groupId>
+  <artifactId>plugin</artifactId>
+
+  <parent>
+    <groupId>erik</groupId>
+    <artifactId>app</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+  </parent>
+
+  <dependencies>
+    <dependency>
+      <groupId>erik.lib</groupId>
+      <artifactId>lib</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+    </dependency>
+  </dependencies>
+
+</project>
